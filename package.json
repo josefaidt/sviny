@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "description": "For your tiny Svelte apps",
+  "repository": "https://github.com/josefaidt/sviny",
   "bin": {
     "sviny": "bin/sviny.js"
   },
