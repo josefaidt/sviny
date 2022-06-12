@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "type": "module",
+  "scripts": {
+    "build": "sviny App.svelte"
+  },
+  "devDependencies": {
+    "svelte": "^3.48.0",
+    "sviny": "../"
+  }
+}
